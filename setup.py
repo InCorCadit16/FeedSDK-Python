@@ -17,7 +17,7 @@ setup(
     description='Python SDK for accessing eBay Feed API',
     url='https://github.com/InCorCadit16/FeedSDK-Python.git',
     classifiers=[
-        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 2-3',
         'License :: OSI Approved :: Apache Software License',
         'Operating System :: OS Independent',
     ],
