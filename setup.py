@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='feed-sdk',
+    name='ebay-feed-sdk',
     version='1.0.0',
     packages=find_packages(),
     include_package_data=True,
